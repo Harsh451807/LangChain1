@@ -28,3 +28,32 @@ This project demonstrates the complete implementation of **LangChain Prompt Temp
 | **Error Handling** | Comprehensive exception management | ✅ Complete |
 
 ---
+
+## ✅ Achieved Skills
+
+### 🧩 PromptTemplate Fundamentals
+* **Creating Reusable Templates**: Designing modular prompt structures to eliminate redundancy.
+* **Using `input_variables`**: Implementation of placeholder logic for programmatic injection.
+* **Dynamic Prompt Generation**: Real-time prompt construction based on runtime data.
+
+### ⛓️ Multi-Input Systems
+* **Handling Multiple Variables**: Managing complex datasets with multiple concurrent inputs.
+* **Template Composition**: Merging smaller template fragments into cohesive instructions.
+* **Complex Prompt Structures**: Building logic-heavy prompts for nuanced LLM tasks.
+
+### 💬 ChatPromptTemplate
+* **Role-Based Messaging**: Implementing `System`, `Human`, and `AI` message abstractions.
+* **Conversational AI Prompts**: Designing prompts specifically for context retention.
+* **Message Flows**: Managing the lifecycle of System/Human/AI interactions.
+
+### 🛡️ Input Validation
+* **Error Handling Strategies**: Developing strategies to catch malformed inputs before API calls.
+* **Default Value Assignment**: Implementing fallback values to ensure system stability.
+* **Strict vs. Flexible Validation**: Balancing schema-enforced vs. permissive input types.
+
+### 🏛️ Production Patterns
+* **Modular Code Design**: Separating prompt logic from application code for easier maintenance.
+* **Reusability Principles**: Applying DRY (Don't Repeat Yourself) logic to prompt engineering.
+* **Clean Architecture**: Organizing templates within a scalable, professional project structure.
+
+---
